@@ -1,0 +1,13 @@
+{
+    "name": "nasir/fb_like",
+    "authors": [
+        {
+            "name": "NasirNobin",
+            "email": "nasir.nobin@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "sunra/php-simple-html-dom-parser": "^1.5"
+    }
+}
