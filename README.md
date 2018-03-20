@@ -1,4 +1,5 @@
 # banglalink data balance scraper
+If you are lazy af (like me -_- ) and tired of checking your data balance manually by dialing *5000*500#. Then let's automate it :3 
 
 ## Setting Up
 1. Clone
